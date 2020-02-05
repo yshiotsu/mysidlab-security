@@ -1,8 +1,8 @@
 ---
 users:
   - name: user1
-    aws_groups: "sacramento, fresno, indio"
+    aws_groups: "tokyo, shinjuku, iwakumi"
   - name: user2
-    aws_groups: "losangeles, sanfrancisco, napa"
+    aws_groups: "fukuoka, osaka, paris"
   - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+    aws_groups: "hongkong, iwakumi, tokyo"
