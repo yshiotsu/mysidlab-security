@@ -1,8 +1,8 @@
 ---
 users:
   - name: user01
-    aws_groups: "tokyo, shinjuku, iwakumi"
+    aws_groups: "tokyo, shinjuku, iwakuni"
   - name: user02
     aws_groups: "fukuoka, osaka, paris"
   - name: user03
-    aws_groups: "hongkong, iwakumi, tokyo"
+    aws_groups: "hongkong, iwakuni, tokyo"
