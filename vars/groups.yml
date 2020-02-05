@@ -1,10 +1,10 @@
 ---
 aws_groups:
-  - fresno
-  - sacramento
-  - losangeles
-  - sanfrancisco
-  - indio
-  - palmsprings
-  - sandiego
-  - napa
+  - tokyo
+  - shinjuku
+  - osaka
+  - iwakuni
+  - paris
+  - hongkong
+  - honolulu
+  
